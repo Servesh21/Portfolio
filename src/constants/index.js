@@ -24,21 +24,16 @@ export const myProjects = [
       },
       {
         id: 2,
-        name: "tailwindcss",
-        path: "/assets/logos/tailwindcss.svg",
-      },
-      {
-        id: 3,
         name: "Flask",
         path: "/assets/logos/Flask.svg",
       },
       {
-        id: 4,
+        id: 3,
         name: "Python",
         path: "/assets/logos/Python.svg",
       },
       {
-        id: 5,
+        id: 4,
         name: "PostgreSQL",
         path: "/assets/logos/PostgreSQL.svg",
       }
@@ -74,13 +69,9 @@ export const myProjects = [
         name: "Supabase",
         path: "/assets/logos/Supabase.svg",
       },
+
       {
         id: 4,
-        name: "TailwindCSS",
-        path: "/assets/logos/tailwindcss.svg",
-      },
-      {
-        id: 5,
         name: "YoloV8",
         path: "/assets/logos/Yolov8.svg",
       }
@@ -135,21 +126,16 @@ export const myProjects = [
       },
       {
         id: 2,
-        name: "TailwindCSS",
-        path: "/assets/logos/tailwindcss.svg",
-      },
-      {
-        id: 3,
         name: "Solidity",
         path: "/assets/logos/Solidity.svg",
       },
       {
-        id: 4,
+        id: 3,
         name: "Node.js",
         path: "/assets/logos/Node.js.svg",
       },
       {
-        id: 5,
+        id: 4,
         name: "Web3.js",
         path: "/assets/logos/Web3.js.svg",
       }
@@ -177,16 +163,11 @@ export const myProjects = [
       },
       {
         id: 2,
-        name: "TailwindCSS",
-        path: "/assets/logos/tailwindcss.svg",
-      },
-      {
-        id: 3,
         name: "Nest.js",
         path: "/assets/logos/Nest.js.svg",
       },
       {
-        id: 4,
+        id: 3,
         name: "PostgreSQL",
         path: "/assets/logos/PostgreSQL.svg",
       },
@@ -213,16 +194,11 @@ export const myProjects = [
       },
       {
         id: 2,
-        name: "TailwindCSS",
-        path: "/assets/logos/tailwindcss.svg",
-      },
-      {
-        id: 3,
         name: "Node.js",
         path: "/assets/logos/Node.js.svg",
       },
       {
-        id: 4,
+        id: 3,
         name: "PostgreSQL",
         path: "/assets/logos/PostgreSQL.svg",
       },
